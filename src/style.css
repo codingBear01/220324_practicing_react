@@ -1,0 +1,29 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+div {
+  font-size: 72px;
+  font-family: sans-serif;
+}
+
+#app {
+  text-align: center;
+}
+
+.incorrect {
+  color: red;
+}
+
+#score {
+  font-size: 28px;
+}
+
+.win {
+  color: blue;
+}
+
+.lose {
+  color: red;
+}
